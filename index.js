@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const clear = require('clear');
 const figlet = require('figlet');
 
